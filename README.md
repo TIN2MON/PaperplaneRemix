@@ -1,6 +1,18 @@
 <h1 align="center">Project Paperplane Remix</h1>
 <p align="center"><em>Such borked, much kanged, very meme.</em></p>
-<p style="text-align: center;" align="center"><a href="https://t.me/MemezByAvinashReddy"><img src="https://img.shields.io/badge/status-alpha-red?style=for-the-badge" alt="Status" /></a> <a href="https://github.com/AvinashReddy3108/PaperplaneRemix/issues"><img src="https://img.shields.io/github/issues/AvinashReddy3108/PaperplaneRemix?style=for-the-badge" alt="GitHub issues" /></a> <a href="https://github.com/AvinashReddy3108/PaperplaneRemix/network"><img src="https://img.shields.io/github/forks/AvinashReddy3108/PaperplaneRemix?style=for-the-badge" alt="GitHub forks" /></a> <a href="https://github.com/AvinashReddy3108/PaperplaneRemix/stargazers"><img src="https://img.shields.io/github/stars/AvinashReddy3108/PaperplaneRemix?style=for-the-badge" alt="GitHub stars" /></a></p>
+
+
+
+<a href="https://github.com/Mr-dark-prince/MashaRoBot/network"><img src="https://img.shields.io/github/forks/Mr-dark-prince/MashaRoBot?style=for-the-badge" alt="GitHub forks" /></a>
+<a href="https://github.com/Mr-dark-prince/MashaRoBot/stargazers"><img src="https://img.shields.io/github/stars/Mr-dark-prince/MashaRoBot?style=for-the-badge" alt="GitHub stars" /></a>
+
+
+
+
+
+<p style="text-align: center;" align="center"><a href="https://t.me/MemezByAvinashReddy"><img src="https://img.shields.io/badge/status-alpha-red?style=for-the-badge" alt="Status" /></a> <a href="https://github.com/AvinashReddy3108/PaperplaneRemix/issues"><img src="https://img.shields.io/github/issues/AvinashReddy3108/PaperplaneRemix?style=for-the-badge" alt="GitHub issues" /></a> 
+
+
 <p align="center"><a href="#what-is-this">What is this</a> | <a href="#how-to-deploy-and-use">How to deploy and use</a> | <a href="#credits">Credits</a> | <a href="#license">License</a></p>
 <p style="text-align: center;">&nbsp;</p>
 <h2 align="center">What is this</h2>
